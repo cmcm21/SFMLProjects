@@ -1,0 +1,3 @@
+/home/senpai/programacion/c++/programas/SFML_proyectos/TomasVaTardeJuego/tomasVaTarde/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/senpai/programacion/c++/programas/SFML_proyectos/TomasVaTardeJuego/tomasVaTarde/cmake-build-debug/CMakeFiles/tomasVaTarde.dir
+/home/senpai/programacion/c++/programas/SFML_proyectos/TomasVaTardeJuego/tomasVaTarde/cmake-build-debug/CMakeFiles/edit_cache.dir

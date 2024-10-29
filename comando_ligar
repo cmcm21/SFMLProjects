@@ -1,0 +1,2 @@
+g++ "archivo".o -o "nombredelaapp" -lsfml-graphics -lsfml-window -lsfml-system
+

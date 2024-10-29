@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tomasVaTarde" targetName="tomasVaTarde" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e945c4f9-5546-44a4-846d-3472459e4859" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1OWUj38UdMWHpLbfccjmSVR7LPy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tomasVaTarde" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tomasVaTarde" TARGET_NAME="tomasVaTarde" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tomasVaTarde" RUN_TARGET_NAME="tomasVaTarde">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e945c4f9-5546-44a4-846d-3472459e4859" name="Default Changelist" comment="" />
+      <created>1563503564273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563503564273</updated>
+      <workItem from="1563503566027" duration="22000" />
+      <workItem from="1563503642386" duration="805000" />
+      <workItem from="1563509623501" duration="3914000" />
+      <workItem from="1563570109683" duration="515000" />
+      <workItem from="1563570659947" duration="80000" />
+      <workItem from="1563570788563" duration="3689000" />
+      <workItem from="1563652787740" duration="607000" />
+      <workItem from="1563664171598" duration="170000" />
+      <workItem from="1563697581187" duration="5136000" />
+      <workItem from="1563769405155" duration="2255000" />
+      <workItem from="1563816852727" duration="7835000" />
+      <workItem from="1563826043111" duration="8493000" />
+      <workItem from="1564004293047" duration="1268000" />
+      <workItem from="1564008137249" duration="15305000" />
+      <workItem from="1564073691582" duration="3899000" />
+      <workItem from="1564087459992" duration="531000" />
+      <workItem from="1564091934232" duration="608000" />
+      <workItem from="1564092986671" duration="18000" />
+      <workItem from="1564093025892" duration="7381000" />
+      <workItem from="1564101387445" duration="4631000" />
+      <workItem from="1564149666622" duration="759000" />
+      <workItem from="1568329676005" duration="337000" />
+      <workItem from="1568833245521" duration="132000" />
+      <workItem from="1578801509264" duration="58000" />
+      <workItem from="1587954764569" duration="1444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
